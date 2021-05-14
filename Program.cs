@@ -11,6 +11,10 @@ namespace SignUpDemo
 {
     public class Program
     {
+        /// <summary>
+        /// dfdsfsdf
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
